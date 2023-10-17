@@ -1,3 +1,6 @@
+local_run:
+	go run server.go
+
 deploy:
 	# gcloud auth login
 	gcloud config set project parcel-master-402212
