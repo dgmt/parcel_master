@@ -8,6 +8,9 @@ Parcel calculator, a challenge.
 ## Run locally
 `go run server.go`
 
+## Test
+`make test`
+
 ## Deployment
 `make deploy`
 
